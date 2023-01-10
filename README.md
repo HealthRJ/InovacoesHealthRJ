@@ -1,2 +1,2 @@
-# Inova-esHealthRJ
+# InovacoesHealthRJ
 Repositório de inovações da HealthRJ

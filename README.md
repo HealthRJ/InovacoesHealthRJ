@@ -9,7 +9,7 @@ Após a linha pontilhada começa a nossa contribuição. Ao criar o seu Readme, 
 
 Sugerimos a instalação do comando GIT no seu computador, para poder clonar os repositórios caso entenda que é melhor do que ter que ficar entrando aqui no github.
 
-=========================================================================================================================================================================
+============================================================================================
 
 Contribuições da HEALTHRJ:
 

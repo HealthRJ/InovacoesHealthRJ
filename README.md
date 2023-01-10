@@ -15,5 +15,11 @@ Contribuições da HEALTHRJ:
 
 1 - Inovações em Saúde e Segurança do Trabalho
 
-    - Como o próprio tema já sugere, nossa primeira contribuição é usar o github.com para realizar ações de coleta e compartilhamento de novas tendências e técnicas de trabalho para aperfeiçoamento da prática médica e de enfermagem. Aqui também iremos compartilhar práticas sobre esocial de SST, escarnando descobertas nos eventos S-2210, S-2220 e S-2240, bem como quaisquer outras inovações com uso de tecnologia que possam facilitar o dia a dia de todos.
+    - Como o próprio tema já sugere, nossa primeira contribuição é usar o 
+    github.com para realizar ações de coleta e compartilhamento de novas 
+    tendências e técnicas de trabalho para aperfeiçoamento da prática médica
+    e de enfermagem. Aqui também iremos compartilhar práticas sobre esocial de
+    SST, escarnando descobertas nos eventos S-2210, S-2220 e S-2240, bem como 
+    quaisquer outras inovações com uso de tecnologia que possam facilitar o dia
+    a dia de todos.
      
